@@ -20,3 +20,6 @@ Meta/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local install helper
+instalacja.txt
