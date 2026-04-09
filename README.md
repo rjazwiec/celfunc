@@ -1,6 +1,6 @@
 # celfunc
 
-Internal R package with utility functions for PK/PD data wrangling and formatting at Celon Pharma S.A.
+Internal R package with utility functions for PK/PD data wrangling and formatting.
 
 ## Install
 
