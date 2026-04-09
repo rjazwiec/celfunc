@@ -1,0 +1,1 @@
+devtools::install("C:/Users/rjazwiec/OneDrive - CELON PHARMA/R/celfunc")

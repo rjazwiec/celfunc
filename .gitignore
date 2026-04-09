@@ -1,0 +1,22 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# devtools / roxygen2 build artefacts
+src/**.so
+src/**.o
+vignettes/*.html
+vignettes/*.pdf
+doc/
+Meta/
+
+# Package check output
+/*.tar.gz
+/*.Rcheck/
+
+# OS
+.DS_Store
+Thumbs.db

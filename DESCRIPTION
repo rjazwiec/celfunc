@@ -1,0 +1,26 @@
+Package: celfunc
+Title: Celon Pharma Utility Functions
+Version: 0.1.0
+Authors@R:
+    person("Radek", "Ja\u017awiec",
+           email = "radoslaw.jazwiec@celonpharma.com",
+           role  = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-9272-6233"))
+Description: A collection of small utility functions for PK/PD data wrangling,
+    formatting, and list traversal used in CPL'36 analyses at Celon Pharma S.A.
+License: proprietary
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    dplyr (>= 1.1.0),
+    janitor,
+    lubridate,
+    magrittr,
+    rlang,
+    stringr,
+    tibble,
+    units
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
