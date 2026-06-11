@@ -6,6 +6,8 @@ Internal R package with utility functions for PK/PD data wrangling and formattin
 
 ```r
 devtools::install_github("rjazwiec/celfunc")
+
+renv::install("rjazwiec/celfunc")
 ```
 
 ## Functions
